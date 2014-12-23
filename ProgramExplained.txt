@@ -1,4 +1,4 @@
-// Sean Stasny
+// Sean Staz
 // CSci_423
 // Programming Assignment 3
 // 10-28-2014
